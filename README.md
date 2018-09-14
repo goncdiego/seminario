@@ -1,4 +1,4 @@
-## Seminario TP0
+## Seminario de Lenguajes Formales - TP0
 
 ### Definir una gramática para realizar distintas operaciones entre conjuntos numéricos:
 
