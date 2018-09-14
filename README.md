@@ -1,4 +1,4 @@
-### Seminario de Lenguajes Formales - TP0
+### Seminario de Lenguajes Formales - TP1
 
 Definir una gramática para crear conjuntos numéricos y realizar distintas operaciones entre ellos.
 
