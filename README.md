@@ -1,6 +1,6 @@
 ### Seminario de Lenguajes Formales - TP1
 
-Definir una gramática para crear conjuntos numéricos y realizar distintas operaciones entre ellos.
+Definir una gramática para poder crear conjuntos numéricos y realizar distintas operaciones.
 
 ### Conjuntos
 
