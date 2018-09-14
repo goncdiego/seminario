@@ -1,7 +1,18 @@
-## Seminario de Lenguajes Formales - TP0
+### Seminario de Lenguajes Formales - TP0
 
-### Definir una gramática para realizar distintas operaciones entre conjuntos numéricos:
+Definir una gramática para crear conjuntos numéricos y realizar distintas operaciones entre ellos.
 
+### Conjuntos
+
+1) Establecer la forma de crear conjunto numericos.
+2) Establecer el conjunto de referencia (o universal).
+
+### Ejemplos:
+
+    A = conjunto[0..5]      //Define el conjunto {0,1,2,3,4,5} - del 0 al 5
+    B = conjunto[0..10, 2]  //Define el conjunto {0,2,4,6,8,10} - del 0 al 10, salteando de a dos
+
+### Operaciones:
 
 1) Intersección
 
