@@ -4,7 +4,7 @@ Definir una gramática para poder crear conjuntos numéricos y realizar distinta
 
 ### Conjuntos
 
-1) Establecer la forma de crear conjunto numericos.
+1) Establecer la forma de crear conjuntos numericos.
 2) Establecer el conjunto de referencia (o universal).
 
 ### Ejemplos:
