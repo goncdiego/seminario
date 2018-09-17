@@ -24,15 +24,15 @@ Definir una gramática para poder crear conjuntos numéricos y realizar distinta
 
 5) Promediar Elementos
 
-6) Unión
+6) Longitud 
 
-7) Diferencia
+7) Unión
 
-8) Complemento
+8) Intersección
 
-9) Intersección
+9) Complemento
 
-10) Longitud
+10) Diferencia
 
 ### Ejemplos:
 
