@@ -26,11 +26,11 @@ Definir una gramática para poder crear conjuntos numéricos y realizar distinta
 
 6) Longitud 
 
-7) Unión
+7) Complemento
 
-8) Intersección
+8) Unión
 
-9) Complemento
+9) Intersección
 
 10) Diferencia
 
