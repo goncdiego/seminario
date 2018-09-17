@@ -22,13 +22,13 @@ Definir una gramática para poder crear conjuntos numéricos y realizar distinta
 
 4) Complemento
 
-5) Asignación
+5) OK..Asignación
 
-6) Mostrar
+6) OK..Mostrar
 
-7) Pertenece Elemento
+7) Ok..Pertenece Elemento
 
-8) Sumar Elementos
+8) OK..Sumar Elementos
 
 9) Promediar Elementos
 
