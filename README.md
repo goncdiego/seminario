@@ -14,21 +14,21 @@ Definir una gramática para poder crear conjuntos numéricos y realizar distinta
 
 ### Operaciones:
 
-1) Intersección
+1) OK..Asignación
 
-2) Unión
+2) OK..Mostrar
 
-3) Diferencia
+3) Ok..Pertenece Elemento
 
-4) Complemento
+4) OK..Sumar Elementos
 
-5) OK..Asignación
+5) Intersección
 
-6) OK..Mostrar
+6) Unión
 
-7) Ok..Pertenece Elemento
+7) Diferencia
 
-8) OK..Sumar Elementos
+8) Complemento
 
 9) Promediar Elementos
 
